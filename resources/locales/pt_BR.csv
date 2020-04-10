@@ -1,0 +1,142 @@
+Title|Título
+Author|Autor
+Legend|Legenda
+Published From|Publicado à partir
+Published To|Publicado até
+Status|Situação
+Type|Tipo
+Area|Área
+Complement|Complemento
+Folder|Pasta
+Text|Texto
+Link|Link
+Image|Imagem
+Image folder|Pasta de imagens
+News folder|Pasta de notícias
+Contact form|Formulário de contato
+Enabled|Ativo
+Disabled|Desativo
+User|Usuário
+Content|Conteúdo
+Admin|Administrativo
+Trash|Lixo
+Administration|Administrativo
+Nodes|Conteúdos
+Routes|Rotas
+Permissions|Permissões
+Description|Descrição
+Superuser|Super usuário
+Info|Informação
+Filters|Filtros
+Search|Busca
+Native|Nativo
+Text|Texto
+Save|Salvar
+New|Novo
+Users|Usuários
+Name|Nome
+Group|Permissão
+Password|Senha
+Successfully saved|Salvo com sucesso
+Successfully deleted|Apagado com sucesso
+New folder|Nova pasta
+Folder name|Nome da pasta
+Create content|Criar conteúdo
+Upload images|Enviar imagens
+Rename|Renomear
+Delete|Apagar
+Search|Pesquisa
+Advanced|Avançado
+Special|Especial
+List|Lista
+Blog|Blog
+Article|Artigo
+Render Layout|Rederizar Layout
+Module|Módulo
+Template|Template
+Template Area|Área na template
+Save|Salvar
+New|Novo
+Attach|Anexar
+Resume|Resumo
+Yes|Sim
+No|Não
+Audio folder|Folder de audio
+Random folder|Folder para testemunho
+Logout|Sair do sistema
+Dear|Prezado
+Reset request for username:|Recuperação de senha requisitada para o usuário:
+To reset your login please click on the link below, or copy the entire link into a browser.|Para logar no sistema click no link abaixo ou copie no seu navegador.
+Best regards|Atenciosamente
+The instructions to recovery your password was sent to your email|As instruções de recuperação de sua senha foram enviadas para seu email
+Remember me on this computer|Manter-me sempre conectado
+Remember my password|Esqueci minha senha
+Login|Acessar
+Invalid Username|Usuário Inválido
+Active|Ativo
+Inactive|Inativo
+Login recovery|Recuperação de senha
+This email was sent to|Esse email foi enviado para
+Name cannot be left blank|O nome não pode ser deixado em branco.
+Invalid Email Address|Endereço de email inválido
+The Password is too short|Senha muito curta
+The Passwords do not match|A senhas não são iguais
+Preview|Pré-visualizar
+Nodes|Conteúdos
+Content administration|Administração de conteúdos
+URL route configuration|Definição e configuração de rota de URL
+Define the configuration for a URL and the correlate behavior when the user access it|Define a configuração para uma URL e os comportamentos de um usuário ao acessar está URL
+Config|Configuração
+Main URL|URL Principal
+The layout should be rendered|O layout deve ser renderizado
+Which template should be rendered|Qual template deve ser renderizada
+The configuration of this URL must be recursive|A configuração para está URL será recursiva
+Which HTML tag is going to be the default container|Qual tag HTML receberá o conteúdo principal desta URL
+Would you like to execute a module|Você deseja executar um módulo
+drag a node from the tree and drop in this area|arraste e solte itens da árvore de conteúdo a esquerda dentro desta área
+URL Route|Rota de URL
+HTML Container Id|Id do container HTML
+Searching for|Pesquisando por
+Show more|Exibir mais
+Add advanced content to the layout|Adicionar conteúdo avançado ao site
+Render|Renderizar
+Short description|Descrição curta
+Summary|Resumo
+Keywords|Palavras-chave
+Not published|Não publicado
+Content to be rendered|Conteúdo a ser renderizado
+This is a tag container in which your node content will be placed inside your HTML template, and it is identified by the id property|Essa é a tag em que o conteúdo retornado será inserido, a tag é identificada pela propriedade id
+Thank you for your contact. We will answer your message as soon as possible|Obrigado por seu contato. Responderemos sua mensagem assim que possível
+Invalid email address|Endereço de email inválido
+Read more|Ler mais
+Thank you for subscribe our newsletter|Obrigado por se inscriver em nosso boletim
+We are sorry to see you go. See you in another opportunity.|Sentimos sua partida, mas nos vemos em uma nova oportunidade.
+Newsletter|Boletim
+Close|Fechar
+Advanced Content|Conteúdo avançado
+advanced config|Configuração avançada
+Please select a content node|Por favor selecione um conteúdo
+This e-mail is already registered|Esse email já está registrado
+Please use the recovery tool to request access to your account|Por favor use a ferramenta de recuperação para ter acesso novamente a sua conta
+User registered with success, a confirmartion link has been sent to your email address. If you have problems to receive, please take a look in your spam box|Usuário registrado com sucesso, um email de confirmação será enviado para seu email. Por favor verifique em sua caixa de SPAM ou lixo eletrônico pois emails válidos podem ser classificados como SPAM de maneira incorreta.
+Automatic redirection to the portal|Redirecionamento automático para o portal
+Any problem|Qualquer problema
+please click here|por favor clique aqui
+Format|Formato
+Locale|Língua
+City|Cidade
+Gender|Sexo
+Hierarchy|Hierarquia
+Route|Rota
+Action|Ação
+Permission|Permissão
+Vehicles|Veículos
+Identification|Identificação
+Lines|Linhas
+Stops|Paradas
+Terminals|Terminais
+Line number|Número da linha
+Orientation|Orientação
+Position|Posição
+Terminal origin|Terminal de origem
+Terminal destination|Terminal de destino

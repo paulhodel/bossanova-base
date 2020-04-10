@@ -1,0 +1,16 @@
+{
+    "name": "bossanova/bossanova-base",
+    "description": "Base Project Bossanova",
+    "keywords": [ "development" ],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        { "name": "Paul Hodel", "email": "paul.hodel@gmail.com" }
+    ],
+    "require": {
+        "bossanova/bossanova" : "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

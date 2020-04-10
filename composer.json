@@ -8,7 +8,7 @@
         { "name": "Paul Hodel", "email": "paul.hodel@gmail.com" }
     ],
     "require": {
-        "bossanova/bossanova" : "dev-master",
+        "bossanova/bossanova" : "v5.0.0.x-dev",
         "phpmailer/phpmailer": "dev-master"
     },
     "minimum-stability": "dev",

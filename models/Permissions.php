@@ -74,7 +74,7 @@ class Permissions extends Model
      *            - permission_id
      * @return array $data - message
      */
-    public function delete($id, $currentUserPermissionId)
+    public function delete($id)
     {
         // Logical delete the record
         $this->database->table('permissions')

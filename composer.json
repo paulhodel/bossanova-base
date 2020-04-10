@@ -9,7 +9,8 @@
     ],
     "require": {
         "bossanova/bossanova" : "v5.0.0.x-dev",
-        "phpmailer/phpmailer": "dev-master"
+        "phpmailer/phpmailer": "dev-master",
+        "stripe/stripe-php": "^7.28"
     },
     "minimum-stability": "dev",
     "prefer-stable": true

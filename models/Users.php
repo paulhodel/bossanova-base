@@ -167,12 +167,15 @@ class Users extends Model
      * @param integer $user_id
      * @return void
      */
-    public function setPassword($user_id, $password)
+    public function setPassword($user_id, $password, $hash = false)
     {
         if (isset($password) && $password) {
+            if (! $hash) {
+                $password = hash('sha512', $password);
+            }
             // Update user password
             $salt = hash('sha512', uniqid(mt_rand(1, mt_getrandmax()), true));
-            $pass = hash('sha512', hash('sha512', $password) . $salt);
+            $pass = hash('sha512', $password . $salt);
 
             // Columns
             $column = [];

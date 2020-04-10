@@ -27,9 +27,10 @@ class Admin extends Module
         $this->setContent($content);
     }
 
+
     public function __default()
     {
-        return 1;
+        $this->setView('admin');
     }
 
     public function logo()
